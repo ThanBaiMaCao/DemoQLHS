@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoQLHS
 {
+    //sua cho nay
     internal class HocSinh
     {
         private float diemToan;
